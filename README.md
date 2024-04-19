@@ -1,4 +1,10 @@
-
+<table>
+  <tr>
+   <td align="center" width="419" height="180">
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+   </td>
+  </tr>
+</table>
    
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mthethwakl15@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kgaugelo-mthethwa-00a22520a/)
