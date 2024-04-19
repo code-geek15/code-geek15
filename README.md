@@ -1,6 +1,4 @@
-<img align="right" src="https://unsplash.com/photos/black-haired-woman-in-white-and-red-dress-figurine-49X42qrgUmQ">
-
-
+        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mthethwakl15@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kgaugelo-mthethwa-00a22520a/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+27678827616&text=Hello!👋)](https://api.whatsapp.com/send?phone=+27678827616&text=Hello!👋)
