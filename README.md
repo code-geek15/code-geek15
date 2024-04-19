@@ -1,7 +1,7 @@
 <table>
   <tr>
    <td align="center" width="419" height="180">
-        <img src="https://raw.githubusercontent.com/MacroPower/MacroPower/master/img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://unsplash.com/photos/black-haired-woman-in-white-and-red-dress-figurine-49X42qrgUmQ width="48" height="48" alt="JavaScript" />
    </td>
   </tr>
 </table>
