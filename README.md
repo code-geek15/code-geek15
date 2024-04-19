@@ -1,6 +1,6 @@
 <table  >
   <tr>
-   <td align="center" width="419" height="120">
+   <td align="center" width="100%" height="120">
         <img src="https://unsplash.com/photos/black-haired-woman-in-white-and-red-dress-figurine-49X42qrgUmQ" />
    </td>
   </tr>
