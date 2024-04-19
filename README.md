@@ -9,7 +9,7 @@
 Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lies in a diverse range of technologies, including Angular, TypeScript, HTML/CSS/Bootstrap, PostgresSQL, Spring Boot, Java, PHP, and various others.
 <h2 align="left" id="tech">My Tech Stack</h2>
 
-Preferred Tools, Languages, and Technologies for Work".
+#### Preferred Tools, Languages, and Technologies for Work.
 <table>
   <tr>
    <td align="center" width="419" height="180">
