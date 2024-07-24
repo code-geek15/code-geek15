@@ -4,7 +4,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/your_facebook_profile)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+27678827616&text=Hello!👋)](https://api.whatsapp.com/send?phone=+27678827616&text=Hello!👋)
 
-### Hi I'm Kgaugelo 👋, ICT Specialist.👨‍💻
+### Hi I'm Kgaugelo 👋, Software developer.👨‍💻
 <br/>
 Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lies in a diverse range of technologies, including Angular, TypeScript, HTML/CSS/Bootstrap, PostgresSQL, Spring Boot, Java, PHP, and various others.
 <h2 align="left" id="tech">My Tech Stack</h2>
