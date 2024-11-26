@@ -72,11 +72,18 @@ Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lie
       </a>
     </td>
   </tr>
+</table>
 
+<table style="width: 100%">
   <tr>
-    <td colspan="2" style="text-align: center; padding-top: 10px;">
-      <a href="https://your-resume-link-here.com" target="_blank" style="font-size: 16px; color: #0366d6; text-decoration: none;">
-        <h1>View My Resume</h1>h>
+    <td style="width: 50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-geek15&layout=compact&theme=blueberry" alt="Top Languages" style="width: 100%; height: 200px;" />
+      </a>
+    </td>
+    <td style="width: 50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=code-geek15&show_icons=true&theme=blueberry" alt="GitHub Stats" style="width: 100%; height: 200px;" />
       </a>
     </td>
   </tr>
