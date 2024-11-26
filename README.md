@@ -79,6 +79,7 @@ Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lie
     Click To View My Resume 👈
   </a>
 </h2>
+If you'd like to dive into my journey and see what I bring to the table, take a moment to check out my resume—it's a glimpse into my story and what I’m all about!
 
 
 
