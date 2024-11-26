@@ -73,21 +73,8 @@ Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lie
     </td>
   </tr>
 </table>
+<h2 align="left" id="tech">Check Out My Stats</h2>
 
-<table style="width: 100%">
-  <tr>
-    <td style="width: 50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-geek15&layout=compact&theme=blueberry" alt="Top Languages" style="width: 100%; height: 200px;" />
-      </a>
-    </td>
-    <td style="width: 50%">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=code-geek15&show_icons=true&theme=blueberry" alt="GitHub Stats" style="width: 100%; height: 200px;" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 
