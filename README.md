@@ -72,6 +72,14 @@ Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lie
       </a>
     </td>
   </tr>
+
+  <tr>
+    <td colspan="2" style="text-align: center; padding-top: 10px;">
+      <a href="https://your-resume-link-here.com" target="_blank" style="font-size: 16px; color: #0366d6; text-decoration: none;">
+        View My Resume
+      </a>
+    </td>
+  </tr>
 </table>
 
 
