@@ -80,7 +80,7 @@ Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lie
     target="_blank" 
     rel="noopener noreferrer"
   >
-    Check Out My Resume
+   👉 Click To View My Resume 👈
   </a>
 </h2>
 
