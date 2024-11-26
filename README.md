@@ -73,9 +73,9 @@ Hello, I am Kgaugelo Mthethwa, a proficient software developer. My expertise lie
     </td>
   </tr>
 </table>
-<h2 style="text-align: left;">
+<h2 style="text-align: left;  color: white !important;">
   <a 
-    href="https://shorturl.at/a3PIE"  style="text-decoration: none; color: white !important; display: inline-block;"  target="_blank" >
+    href="https://shorturl.at/a3PIE"  style="text-decoration: none; display: inline-block;"  target="_blank" >
     Click To View My Resume 👈
   </a>
 </h2>
